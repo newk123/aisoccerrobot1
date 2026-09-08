@@ -1,0 +1,5 @@
+username:pi
+password:pi
+
+wifiname:robu
+password:12345678
